@@ -1,0 +1,12 @@
+C:\Users\kadup\source\repos\CRC_App\bin\Debug\CRC_App.exe.config
+C:\Users\kadup\source\repos\CRC_App\bin\Debug\CRC_App.exe
+C:\Users\kadup\source\repos\CRC_App\bin\Debug\CRC_App.pdb
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.csproj.AssemblyReference.cache
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.Form1.resources
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.Properties.Resources.resources
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.StartScreen.resources
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.csproj.GenerateResource.cache
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.csproj.CoreCompileInputs.cache
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.exe
+C:\Users\kadup\source\repos\CRC_App\obj\Debug\CRC_App.pdb
